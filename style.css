@@ -112,11 +112,11 @@ h1, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-.section-c {
+.section-c .section-d .section-e{
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    padding-top: 100px;
+    padding-top: 200px;
 }
 
 .grow-content {
@@ -156,13 +156,6 @@ h1, h3, h4, h5, h6 {
   }
 }
 
-.section-d {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    padding-top: 100px;
-}
-
 .flow-content {
     display: flex;
     justify-content: space-around;
@@ -197,13 +190,6 @@ h1, h3, h4, h5, h6 {
   .flow-text h2, p {
     padding-top: 20%;
   }
-}
-
-.section-e {
-    display: flex;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    padding-top: 100px;
 }
 
 .users-content {
